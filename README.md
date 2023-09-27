@@ -39,7 +39,7 @@ Your app is ready to be deployed!
 
 # Directory structure
 
-Note: `section` is used as an alias for a level 1 bounded context
+Note: `module` is used as an alias for a level 1 bounded context
 
 | Path                               | Description                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
