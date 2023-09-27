@@ -1,4 +1,4 @@
-# Getting Started with Lex Verto UI Application
+# Getting Started with FMS UI Application
 
 This project was bootstrapped with [Vite](https://vitejs.dev).
 
