@@ -57,7 +57,7 @@ export default (inputTheme: obj = {}) => {
     base,
     inputTheme,
     {
-      name: 'ash',
+      name: 'FMS',
       getContrastText: curriedContrastText(base.palette),
     },
   ]);
