@@ -1,13 +1,12 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 
-
 type authState = {
-    authenticated: boolean,
-    error: string | undefined,
-    loading: boolean,
-    name: string,
-    userId: string
-}
+  authenticated: boolean;
+  error: string | undefined;
+  loading: boolean;
+  name: string;
+  userId: string;
+};
 
 const initialState: authState = {
   authenticated: false,
@@ -19,20 +18,20 @@ const initialState: authState = {
 
 /** Thunks */
 export const authenticateUser = createAsyncThunk('auth/authenticateUser', async () => {
-    let user = {};
-    //TODO: Login API Endpoint 
-    user = {
-      authenticated: true,
-      idToken: {
-        userId: 'sys123',
-      },
-    };
+  let user = {};
+  //TODO: Login API Endpoint
+  user = {
+    authenticated: true,
+    idToken: {
+      userId: 'sys123',
+    },
+  };
 
-    return user;
+  return user;
 });
 
 export const updatePassword = createAsyncThunk('auth/updatePassword', async () => {
-  //TODO: Update Password API Endpoint 
+  //TODO: Update Password API Endpoint
 
   return;
 });

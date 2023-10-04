@@ -36,9 +36,29 @@ module.exports = {
     },
     "plugins": [
         "@typescript-eslint",
-        "react"
+        "react",
+        "react-hooks",
+        "sort-destructure-keys",
+        "prettier"
     ],
     "rules": {
-      "react/react-in-jsx-scope": "off"
-    }
+        'func-names': ['warn', 'as-needed'],
+        'func-style': 'off',
+        'no-nested-ternary': 'off',
+        "react/react-in-jsx-scope": "off",
+        'react-hooks/exhaustive-deps': 'warn',
+        'react-hooks/rules-of-hooks': 'error',
+        'react/jsx-sort-props': 'error',
+        'react/function-component-definition': 'off',
+        'sort-destructure-keys/sort-destructure-keys': 'error',
+        'prettier/prettier': [
+          'error',
+          {
+            tabWidth: 2,
+            trailingComma: 'es5',
+            singleQuote: true,
+            printWidth: 100,
+          },
+        ],
+      },
 }

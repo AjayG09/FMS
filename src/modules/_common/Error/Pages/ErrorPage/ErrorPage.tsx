@@ -2,7 +2,6 @@ import { ErrorResponse, useRouteError } from 'react-router-dom';
 import useStylesRoot from '../../../Root/Root.styles';
 import useStyles from './ErrorPage.styles';
 
-
 const ErrorPage = () => {
   /** Normally components should utilize a single useStyles(). This is an exception, since we really do want to share styles in this scenario */
   const classesRoot = useStylesRoot();
@@ -19,7 +18,7 @@ const ErrorPage = () => {
   };
 
   return (
-    <div className={classesRoot.mainContainer} >
+    <div className={classesRoot.mainContainer}>
       <div className={classes.errorPage}>
         <h1>Error</h1>
         <p>{getErrorMessageLocale()}</p>

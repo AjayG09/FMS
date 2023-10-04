@@ -8,15 +8,15 @@ import { RootState } from '../../../store';
  * This component serves as the shell for the entire application. It
  * will render all components as defined in the application routes.
  */
-const App = () => {
+const Root = () => {
   const classes = useStyles();
-	const auth = useSelector((state: RootState) => state?.auth);
-	const navigate = useNavigate();
+  const auth = useSelector((state: RootState) => state?.auth);
+  const navigate = useNavigate();
   useEffect(() => {
-		if(!auth.authenticated) {
-			navigate('/login')
-		}
-  }, [])
+    if (!auth.authenticated) {
+      navigate('/login');
+    }
+  }, [auth.authenticated, navigate]);
   return (
     <div className={classes.mainContainer} data-qa="main-container">
       <div className={classes.navContainer}>
@@ -29,4 +29,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Root;

@@ -9,7 +9,6 @@ import variantsFn from './variants';
 import zIndex from './zIndex';
 import shadows from './shadows';
 
-
 export interface IComposedTheme {
   palette: typeof basePalette;
   spacing: typeof spacing;
@@ -24,7 +23,6 @@ export type TMergedPaletteVariants = {
   variants?: ReturnType<typeof variantsFn>;
 } & IComposedTheme['palette'];
 
-
 export interface IMergedTheme extends Omit<IComposedTheme, 'palette'> {
   name: string;
   getContrastText(background: string): void;
@@ -32,7 +30,7 @@ export interface IMergedTheme extends Omit<IComposedTheme, 'palette'> {
   legacy?: boolean;
 }
 /* eslint-disable  @typescript-eslint/no-explicit-any */
-type obj = { [key: string]: any };  
+type obj = { [key: string]: any };
 
 export default (inputTheme: obj = {}) => {
   const palette = inputTheme.palette ? deepMerge(basePalette, inputTheme.palette) : basePalette;
@@ -48,9 +46,9 @@ export default (inputTheme: obj = {}) => {
     shadows,
     '@global': {
       body: {
-        background: '#568EA6'
-      }
-    },  
+        background: '#568EA6',
+      },
+    },
   };
 
   const merged = deepMerge.all<IMergedTheme>([

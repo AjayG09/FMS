@@ -1,5 +1,5 @@
 import classnames from 'classnames';
-import { useMemo, HtmlHTMLAttributes } from 'react';
+import { HtmlHTMLAttributes } from 'react';
 import useStyles from './Loading.styles';
 
 interface ILoadingProps extends HtmlHTMLAttributes<HTMLDivElement> {
@@ -11,21 +11,12 @@ interface ILoadingProps extends HtmlHTMLAttributes<HTMLDivElement> {
   size?: number | string;
 }
 
-const Loading = ({
-  children,
-  className,
-  classes: classesProp,
-  isLoading,
-  size = 0,
-  ...rest
-}: ILoadingProps) => {
-  const classes = useStyles(useMemo(() => ({ size, classes: classesProp }), [size, classesProp]));
-  const loading = ' Loading...'
+const Loading = ({ children, className, isLoading, ...rest }: ILoadingProps) => {
+  const classes = useStyles();
+  const loading = ' Loading...';
   return (
-     
     <>
       {isLoading ? (
-         
         <div aria-live="polite" className={classnames(classes.root, className)} {...rest}>
           {loading}
         </div>

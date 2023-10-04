@@ -1,10 +1,10 @@
 import { createUseStyles } from 'react-jss';
 import { ComposedTheme } from '../../theme';
 
-export default createUseStyles(({palette, typography, spacing}: ComposedTheme) => ({
-	container: {
+export default createUseStyles(({ palette, spacing, typography }: ComposedTheme) => ({
+  container: {
     width: '100%',
-    color: palette.colors.white
+    color: palette.colors.white,
   },
   controlGroup: {
     paddingTop: spacing.unit,
@@ -17,14 +17,14 @@ export default createUseStyles(({palette, typography, spacing}: ComposedTheme) =
       padding: [3, 5],
       border: `2px solid ${palette.colors.white}`,
       color: palette.colors.white,
-      fontSize: typography.fontSize
+      fontSize: typography.fontSize,
     },
     '& label': {
-      marginBottom: 5
-    }
+      marginBottom: 5,
+    },
   },
   controlError: {
-    '$controlGroup': {
+    $controlGroup: {
       '& label': {
         color: palette.colors.white,
         background: 'rgba(255, 0, 0, 0.7)',
@@ -32,8 +32,8 @@ export default createUseStyles(({palette, typography, spacing}: ComposedTheme) =
         display: 'inline-block',
         width: 'fit-content',
         padding: [2, 6],
-        borderRadius: 10
-      }
-    }
+        borderRadius: 10,
+      },
+    },
   },
-}))
+}));

@@ -1,7 +1,6 @@
 import { createUseStyles } from 'react-jss';
 import { ComposedTheme } from '../../theme';
 
-
 export default createUseStyles(({ palette, spacing }: ComposedTheme) => ({
   '@keyframes rotate': {
     from: {
@@ -20,8 +19,8 @@ export default createUseStyles(({ palette, spacing }: ComposedTheme) => ({
 
     '&::before': {
       content: '""',
-      width: ({ size }: { size: number | string }) => size || 24,
-      height: ({ size }: { size: number | string }) => size || 24,
+      width: 24,
+      height: 24,
       border: [4, 'solid'],
       borderLeftColor: 'transparent',
       borderRadius: '50%',
@@ -33,4 +32,4 @@ export default createUseStyles(({ palette, spacing }: ComposedTheme) => ({
       animationTimingFunction: 'linear',
     },
   },
-}))
+}));

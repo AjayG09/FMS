@@ -1,7 +1,7 @@
 import { createUseStyles } from 'react-jss';
 import { ComposedTheme } from '../../../../theme';
 
-export default createUseStyles(({palette, spacing, typography}: ComposedTheme) => ({
+export default createUseStyles(({ palette, spacing, typography }: ComposedTheme) => ({
   loginForm: {
     width: '30%',
     margin: [0, 'auto'],
@@ -29,8 +29,8 @@ export default createUseStyles(({palette, spacing, typography}: ComposedTheme) =
     marginTop: spacing.unit * 3,
 
     '&:hover': {
-      boxShadow: "3px 8px 15px hsl(0deg 0% 0% / 19%)",
-      border: "3px solid #FFF"
-    }
+      boxShadow: '3px 8px 15px hsl(0deg 0% 0% / 19%)',
+      border: '3px solid #FFF',
+    },
   },
-}))
+}));

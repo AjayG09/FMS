@@ -19,5 +19,7 @@ export default createUseStyles(({ breakpoints, palette, typography }: ComposedTh
       minWidth: breakpoints.values.md,
     },
   },
+  navContainer: {},
+  content: {},
   root: {},
 }));

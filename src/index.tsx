@@ -1,5 +1,5 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
+import React from 'react';
+import ReactDOM from 'react-dom/client';
 import { ThemeProvider } from 'react-jss';
 import { theme } from './theme/index.ts';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
@@ -13,8 +13,8 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <ThemeProvider theme={theme}>
       <ReduxProvider store={store}>
-        <RouterProvider router={router} /> 
+        <RouterProvider router={router} />
       </ReduxProvider>
     </ThemeProvider>
-  </React.StrictMode>,
-)
+  </React.StrictMode>
+);
