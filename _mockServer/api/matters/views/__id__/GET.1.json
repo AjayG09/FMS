@@ -1,0 +1,16 @@
+{
+  "id": "1",
+  "label": "Matters by Law Firm",
+  "columns": [
+    {
+      "field": "firmName",
+      "headerName": "Firm Name",
+      "sortable": true
+    },
+    {
+      "field": "numberOfMatters",
+      "headerName": "# of Matters",
+      "sortable": true
+    }
+  ]
+}

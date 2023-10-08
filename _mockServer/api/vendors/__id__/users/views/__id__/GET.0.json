@@ -1,0 +1,47 @@
+{
+  "id": "0",
+  "label": "All users assigned",
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "field": "checkbox",
+      "headerCheckboxSelection": true,
+      "primary": true,
+      "width": "60"
+    },
+    {
+      "field": "rowActions",
+      "cellRenderer": "GridCellLink",
+      "headerName": "",
+      "width": "100",
+      "suppressSizeToFit": true,
+      "sortable": true
+    },
+     {
+       "field": "userId",
+       "filter": "agTextColumnFilter",
+       "headerName": "ID",
+       "sortable": true,
+       "width": "100"
+     },
+     {
+       "field": "name",
+       "filter": "agTextColumnFilter",
+       "headerName": "Name",
+       "sortable": true,
+       "cellRenderer": "GridCellLink"
+     },
+     {
+       "field": "name",
+       "filter": "agTextColumnFilter",
+       "headerName": "Username",
+       "sortable": true
+     },
+     {
+       "field": "assignedCount",
+       "filter": "agTextColumnFilter",
+       "headerName": "Assigned to",
+       "sortable": true
+     }
+  ]
+}

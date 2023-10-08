@@ -1,0 +1,15 @@
+[
+  {
+    "id": "0",
+    "label": "All Clients"
+  },
+  {
+    "id": "1",
+    "label": "Active"
+  },
+  {
+    "id": "2",
+    "label": "Inactive"
+  }
+
+]

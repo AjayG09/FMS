@@ -1,0 +1,20 @@
+{
+  "name": "JR_POV_11/25.2",
+  "number": "02342",
+  "status": "Active",
+  "subStatus": "Accepted",
+  "vendorName": "Court reporter Vendor (CS)",
+  "vendorId": "W0000021V",
+  "vendorTaxId": "3425829345",
+  "caseManager": "Yosi Horikawa",
+  "activeDate": "23 Oct 2022",
+  "inactiveDate": "--",
+  "billingUpTo": "30 Jan 2023",
+  "matterClass": "ABCDEFG",
+  "matterType": "[MATTER_TYPE]",
+  "subMatterType": "[SUB_MATTER_TYPE]",
+  "nature": "[NATURE]",
+  "phase": "[PHASE]",
+  "stageStrategy": "[STAGE/STRATEGY]",
+  "structure": "[STRUCTURE]"
+}

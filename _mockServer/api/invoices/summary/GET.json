@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "unapproved invoices",
+    "count": 10,
+    "sum": "$2,551.00"
+  },
+  {
+   "id": 2,
+    "title": "overdue",
+    "count": 10,
+    "sum": "$2,551.00"
+  },
+  {
+    "id": 3,
+    "title": "invoices expiring today",
+    "count": 2,
+    "sum": "$17.58"
+  },
+ {
+   "id": 4,
+    "title": "escalated invoices",
+    "count": 0,
+    "sum": "$0.00"
+  }
+]

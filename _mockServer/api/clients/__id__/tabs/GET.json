@@ -1,0 +1,38 @@
+[
+  {
+    "id": "16",
+    "label": "Settings"
+  },
+  {
+    "id": "17",
+    "label": "Query/interf"
+  },
+  {
+    "id": "18",
+    "label": "Job list"
+  },
+  {
+    "id": "19",
+    "label": "Tools"
+  },
+  {
+    "id": "20",
+    "label": "FTP"
+  },
+  {
+    "id": "21",
+    "label": "File upload"
+  },
+  {
+    "id": "22",
+    "label": "ETL reports"
+  },
+  {
+    "id": "23",
+    "label": "Dataview stats"
+  },
+  {
+    "id": "24",
+    "label": "SSO"
+  }
+]

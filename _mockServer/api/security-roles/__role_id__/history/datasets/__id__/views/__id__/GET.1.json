@@ -1,0 +1,36 @@
+{
+  "id": "1",
+  "label": "Security role updated",
+  "columns": [
+    {
+      "field": "dataTime",
+      "filter": "agTextColumnFilter",
+      "headerName": "Data and time",
+      "sortable": true
+    },
+    {
+      "field": "performedBy",
+      "filter": "agTextColumnFilter",
+      "headerName": "Performed By",
+      "sortable": true
+    },
+    {
+      "field": "type",
+      "filter": "agTextColumnFilter",
+      "headerName": "Type",
+      "sortable": true
+    },
+    {
+      "field": "action",
+      "filter": "agTextColumnFilter",
+      "headerName": "Action",
+      "sortable": true
+    },
+    {
+      "field": "description",
+      "filter": "agTextColumnFilter",
+      "headerName": "Description",
+      "sortable": true
+    }
+  ]
+}

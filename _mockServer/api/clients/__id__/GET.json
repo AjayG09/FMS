@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "Abc Generic",
+  "dnId": "D300223E",
+  "displayName": "78577",
+  "btId": 91,
+  "contact": "Dianne Russell",
+  "phoneNumber": "(405) 555-5467",
+  "activeDate": "12/10/13",
+  "inActiveDate": "12/10/13",
+  "url": "https://lex-qa12.saas-n.com",
+  "lexJobVersion": "22.3",
+  "submitDataBaseRepID": "AG342",
+  "processType": "profee",
+  "currency": "usdollar",
+  "companyName": "JOHN BIRON",
+  "companyPhoneNumber": "603-555-1234",
+  "companyAddress1": "325 Corporate Drive",
+  "companyState": "NH",
+  "companyCity": "Portsmouth",
+  "companyZip": "03801",
+  "companyCountry": "USA"
+}

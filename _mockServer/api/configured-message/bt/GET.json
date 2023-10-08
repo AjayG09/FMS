@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "heading": "Support Department holiday notice",
+    "description": "Our support department will be closed Monday, January 16th in observance of Dr. Martin Luther King Jr. holiday. We will respond to all support requests on Tuesday, January 17th.\n\nFor 24x7 access to our customer care portal, use our knowledge base, log new requests, look through previous requests and solutions, and access user guides, register today at https://support.bottomline.com",
+    "date": "01/09/2023",
+    "type": "BTUser"
+  },
+  {
+    "id": 2,
+    "heading": "Upcoming system availability - Legal-X and PartnerSelect maintenance notification",
+    "description": "We will be performing maintenance to the Legal-X and ParnerSelect Production applications starting on Sunday, January 22nd from 4:00 am ET until 11:00 am ET.\n\nDuring these times the environments will not be available for use. Please plan accordingly.",
+    "date": "01/03/2023",
+    "type": "BTUser"
+  }
+]

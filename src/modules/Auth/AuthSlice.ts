@@ -9,7 +9,7 @@ type authState = {
 };
 
 const initialState: authState = {
-  authenticated: false,
+  authenticated: true,
   error: '',
   loading: false,
   name: '',

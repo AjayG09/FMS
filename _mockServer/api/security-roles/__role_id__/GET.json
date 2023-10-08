@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "Test Role",
+  "permissions": [
+    {
+      "id": 1,
+      "name": "lorem",
+      "description": "lorem"
+    },
+    {
+      "id": 2,
+      "name": "ipsum",
+      "description": "ipsum"
+    }
+  ]
+}

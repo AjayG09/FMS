@@ -1,0 +1,44 @@
+{
+  "id": "5",
+  "label": "Pending Assignments",
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "suppressMenu": true,
+      "field": "checkbox",
+      "headerName": "",
+      "width": 60,
+      "filterable": false
+    },
+    {
+      "field": "alerts",
+      "headerName": "Alerts",
+      "sortable": true
+    },
+    {
+      "field": "matterName",
+      "headerName": "Matter Name",
+      "sortable": true
+    },
+    {
+      "field": "matterNumber",
+      "headerName": "Matter Number",
+      "sortable": true
+    },
+    {
+      "field": "activeDate",
+      "headerName": "Active Date",
+      "sortable": true
+    },
+    {
+      "field": "matterClass",
+      "headerName": "Matter Class",
+      "sortable": true
+    },
+    {
+      "field": "status",
+      "headerName": "Status",
+      "sortable": true
+    }
+  ]
+}

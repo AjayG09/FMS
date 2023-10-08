@@ -1,0 +1,11 @@
+{
+  "firstName": "Jenny",
+  "lastName": "Wilson",
+  "emailAddress": "jenny.wilson@abccompany.com",
+  "phone": "(684) 555-0102",
+  "jobTitle": "Account supervisor",
+  "username": "jwilson",
+  "employeeId": "2342",
+  "enableNotifications": "true",
+  "notification": "hourly"
+}

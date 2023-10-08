@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "firmName": "Reddick, Bosman & Lockhart",
+    "firmId": "W013168V",
+    "firmAddress": "2464 Royal Ln. Mesa, New Jersey 45463",
+    "clients": [
+      {
+        "id": 1,
+        "clientName": "Acme Technologies",
+        "clientId": "acme",
+        "clientLogo": "ACME Tech."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "firmName": "Firm 2",
+    "firmId": "W013163V",
+    "firmAddress": "2464 Royal Ln. Mesa, New Jersey 45463",
+    "clients": [
+      {
+        "id": 1,
+        "clientName": "Lex Technologies",
+        "clientId": "lex",
+        "clientLogo": "Lex Tech."
+      },
+      {
+        "id": 2,
+        "clientName": "Lex Technologies 2",
+        "clientId": "lex2",
+        "clientLogo": "Lex Tech. 2"
+      }
+    ]
+  }
+]

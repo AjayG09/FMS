@@ -1,0 +1,36 @@
+{
+  "leadFirm": [
+    {
+      "vendorName": "Beas, Bees & BBB",
+      "vendorId": "QA0000003V",
+      "matterType": "RPT01",
+      "assignmentDate": "23 Oct 2022",
+      "endDate": "23 Oct 2023"
+    }
+  ],
+  "coCounsel": [
+    {
+      "vendorName": "Beas, Bees & BBB",
+      "vendorId": "QA0000003V",
+      "matterType": "RPT01",
+      "assignmentDate": "23 Oct 2022",
+      "endDate": "23 Oct 2023"
+    },
+    {
+      "vendorName": "Beas, Bees & BBB",
+      "vendorId": "QA0000003V",
+      "matterType": "RPT01",
+      "assignmentDate": "23 Oct 2022",
+      "endDate": "23 Oct 2023"
+    }
+  ],
+  "otherVendors": [
+    {
+      "vendorName": "Beas, Bees & BBB",
+      "vendorId": "QA0000003V",
+      "matterType": "RPT01",
+      "assignmentDate": "23 Oct 2022",
+      "endDate": "23 Oct 2023"
+    }
+  ]
+}

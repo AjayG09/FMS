@@ -1,0 +1,16 @@
+{
+  "id": "13",
+  "label": "Inactive by User",
+  "columns": [
+    {
+      "field": "name",
+      "headerName": "Name",
+      "sortable": true
+    },
+    {
+      "field": "matterCount",
+      "headerName": "Matter Count",
+      "sortable": true
+    }
+  ]
+}

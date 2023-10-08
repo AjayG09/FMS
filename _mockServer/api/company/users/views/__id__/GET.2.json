@@ -1,0 +1,30 @@
+{
+  "id": "2",
+  "label": "Inactive Users",
+  "columns": [
+    {
+      "field": "firstName",
+      "filter": "agTextColumnFilter",
+      "headerName": "First Name",
+      "sortable": true
+    },
+    {
+      "field": "lastName",
+      "filter": "agTextColumnFilter",
+      "headerName": "Last Name",
+      "sortable": true
+    },
+    {
+      "field": "email",
+      "filter": "agTextColumnFilter",
+      "headerName": "Email",
+      "sortable": true
+    },
+    {
+      "field": "status",
+      "filter": "agTextColumnFilter",
+      "headerName": "Status",
+      "sortable": true
+    }
+  ]
+}

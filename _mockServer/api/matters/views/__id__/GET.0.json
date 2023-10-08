@@ -1,0 +1,43 @@
+{
+  "id": "0",
+  "label": "My Active Matters",
+  "columns": [
+    {
+      "field": "matterName",
+      "headerName": "Matter Name",
+      "sortable": true,
+      "sort": "desc"
+    },
+    {
+      "field": "matterNumber",
+      "headerName": "Matter Number",
+      "sortable": true
+    },
+    {
+      "field": "lawFirmNameListing",
+      "headerName": "Law Firm Name Listing",
+      "sortable": true
+    },
+    {
+      "field": "activeDate",
+      "headerName": "Active Date",
+      "sortable": true
+    },
+    {
+      "field": "matterClass",
+      "headerName": "Matter Class",
+      "sortable": true
+    },
+    {
+      "field": "matterClass",
+      "headerName": "Matter Class",
+      "sortable": true
+    },
+    {
+      "field": "claimNumberListing",
+      "headerName": "Claim Number Listing",
+      "sortable": true,
+      "hide": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "companyDetails": {
+    "enterpriseName": "ACME Technologies",
+    "displayedName": "D300223ET",
+    "division": "Mid-Western",
+    "tin": 7107171004,
+    "evid": "D300223E",
+    "protocol": "HTTPS"
+  },
+  "contactDetails": {
+    "firstName": "John",
+    "phone": 710717100,
+    "fax": 7107171003
+  },
+  "address": {
+    "address1": "325 Corporate Drive",
+    "address2": "",
+    "city": "Portsmouth",
+    "state": "NH",
+    "zip": "03801",
+    "country": "USA"
+  }
+}

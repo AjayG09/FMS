@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "label": "Vendors"
+  },
+  {
+    "id": "1",
+    "label": "Insured"
+  },
+  {
+    "id": "2",
+    "label": "Events"
+  },
+  {
+    "id": "3",
+    "label": "Plaintiff"
+  },
+  {
+    "id": "4",
+    "label": "Assessment"
+  },
+  {
+    "id": "5",
+    "label": "Disposition"
+  },
+  {
+    "id": "6",
+    "label": "Claim numbers"
+  },
+  {
+    "id": "7",
+    "label": "Flex fields"
+  },
+  {
+    "id": "8",
+    "label": "Rates"
+  },
+  {
+    "id": "9",
+    "label": "Invoice totals"
+  },
+  {
+    "id": "10",
+    "label": "Documentation"
+  },
+  {
+    "id": "11",
+    "label": "Allocations"
+  },
+  {
+    "id": "12",
+    "label": "Authorizations"
+  },
+  {
+    "id": "13",
+    "label": "Cost share"
+  },
+  {
+    "id": "14",
+    "label": "Edit history"
+  },
+  {
+    "id": "15",
+    "label": "All"
+  }
+]

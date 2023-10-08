@@ -1,0 +1,162 @@
+{
+  "invoicesAndAppeals": [
+    {
+      "label": "Invoice pend",
+      "value": true
+    },
+    {
+      "label": "Invoice pass",
+      "value": true
+    },
+    {
+      "label": "Approval reason prompt required",
+      "value": false
+    },
+    {
+      "label": "Appeal overdue days",
+      "value": 6
+    },
+    {
+      "label": "Invoice overdue days",
+      "value": 6
+    },
+    {
+      "label": "Days allowed for invoice appeal",
+      "value": 6
+    },
+    {
+      "label": "Days invoicing after inactive date",
+      "value": 6
+    }
+  ],
+  "approvalsAndAdjustments": [
+    {
+      "label": "Approval reason required",
+      "value": true
+    },
+    {
+      "label": "Approval reason prompt required",
+      "value": true
+    },
+    {
+      "label": "Adjustment reason required",
+      "value": true
+    },
+    {
+      "label": "Rejection reason required",
+      "value": true
+    },
+    {
+      "label": "Escalate reason required",
+      "value": true
+    },
+    {
+      "label": "Appeal response reason required",
+      "value": true
+    },
+    {
+      "label": "Standard adjustment reason required",
+      "value": true
+    },
+    {
+      "label": "Adjustment warn if greater than original amount",
+      "value": false
+    },
+    {
+      "label": "Positive adjustments not allowed",
+      "value": true
+    },
+    {
+      "label": "Disallow invoice level dollar adjustments",
+      "value": true
+    }
+  ],
+  "matterManagement": [
+    {
+      "label": "Handling attorney enabled",
+      "value": true
+    },
+    {
+      "label": "Allow vendors to create/edit events",
+      "value": true
+    },
+    {
+      "label": "Report missing matter enabled",
+      "value": true
+    },
+    {
+      "label": "Report problem matter enabled",
+      "value": true
+    },
+    {
+      "label": "Email case manager when vendor posts matter note",
+      "value": false
+    },
+    {
+      "label": "Email to handling attorney on matter notes required",
+      "value": true
+    },
+    {
+      "label": "Law firm edit handling attorney enabled",
+      "value": true
+    },
+    {
+      "label": "Cost share allowed",
+      "value": true
+    },
+    {
+      "label": "Exclude cost share option",
+      "value": true
+    },
+    {
+      "label": "Allow vendors to create and edit vendor-added cost shares",
+      "value": true
+    },
+    {
+      "label": "Allow vendors to edit client-added cost shares",
+      "value": true
+    },
+    {
+      "label": "Budget overdue days",
+      "value": 6
+    }
+  ],
+  "vendors": [
+    {
+      "label": "Attachments allowed",
+      "value": true
+    },
+    {
+      "label": "Require CMS/AP ID on vendors",
+      "value": true
+    },
+    {
+      "label": "Track timekeeper diversity",
+      "value": true
+    }
+  ],
+  "others": [
+    {
+      "label": "Allow user to change password",
+      "value": false
+    },
+    {
+      "label": "Enforce timekeeper title mapping",
+      "value": true
+    },
+    {
+      "label": "Default line items per page",
+      "value": [
+        100
+      ],
+      "type": "lineItemsSize"
+    },
+    {
+      "label": "Email format",
+      "value": [
+        "HTML"
+      ],
+      "type": "emailFormat"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "7",
+  "label": "All Sub-Matters",
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "suppressMenu": true,
+      "field": "checkbox",
+      "headerName": "",
+      "width": 60
+    },
+    {
+      "field": "alerts",
+      "headerName": "Alerts",
+      "sortable": true
+    },
+    {
+      "field": "menu",
+      "headerName": "Menu",
+      "sortable": true
+    },
+    {
+      "field": "subMatterName",
+      "headerName": "Sub-Matter Name",
+      "sortable": true
+    },
+    {
+      "field": "subMatterNumber",
+      "headerName": "Sub-Matter Number",
+      "sortable": true
+    },
+    {
+      "field": "masterMatterName",
+      "headerName": "Master Matter Name",
+      "sortable": true
+    },
+    {
+      "field": "masterMatterNumber",
+      "headerName": "Master Matter Number",
+      "sortable": true
+    },
+    {
+      "field": "state",
+      "headerName": "State",
+      "sortable": true
+    },
+    {
+      "field": "status",
+      "headerName": "Status",
+      "sortable": true
+    },
+    {
+      "field": "activeDate",
+      "headerName": "Active Date",
+      "sortable": true
+    },
+    {
+      "field": "inactiveDate",
+      "headerName": "Inactive Date",
+      "sortable": true
+    },
+    {
+      "field": "leadCoCounsel",
+      "headerName": "Lead/Co-Counsel",
+      "sortable": true
+    }
+  ]
+}

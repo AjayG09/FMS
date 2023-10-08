@@ -1,0 +1,74 @@
+{
+  "id": "15",
+  "label": "Matters With Bad Users",
+  "hide": true,
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "suppressMenu": true,
+      "field": "checkbox",
+      "headerName": "",
+      "width": 60
+    },
+    {
+      "field": "alerts",
+      "headerName": "Alerts",
+      "sortable": true
+    },
+    {
+      "field": "menu",
+      "headerName": "Menu",
+      "sortable": true
+    },
+    {
+      "field": "matterClass",
+      "headerName": "Matter Class",
+      "sortable": true
+    },
+    {
+      "field": "matterName",
+      "headerName": "Matter Name",
+      "sortable": true
+    },
+    {
+      "field": "matterNum",
+      "headerName": "Matter Num",
+      "sortable": true
+    },
+    {
+      "field": "claimNumbers",
+      "headerName": "Claim Numbers",
+      "sortable": true
+    },
+    {
+      "field": "type",
+      "headerName": "Type",
+      "sortable": true
+    },
+    {
+      "field": "badUser",
+      "headerName": "Bad User",
+      "sortable": true
+    },
+    {
+      "field": "role",
+      "headerName": "Role",
+      "sortable": true
+    },
+    {
+      "field": "matterStatus",
+      "headerName": "Matter Status",
+      "sortable": true
+    },
+    {
+      "field": "state",
+      "headerName": "State",
+      "sortable": true
+    },
+    {
+      "field": "createdDate",
+      "headerName": "Created Date",
+      "sortable": true
+    }
+  ]
+}

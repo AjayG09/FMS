@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "heading": "Legal eXchange Release 22.2 features!",
+    "description": "The new release offers the following enhancements:\n\nNEW! Invoice Alert for Direct File Attachments\nNEW! Timekeeper View Permission\nIMPROVED! Rate Card Display on Matter\nIMPROVED! Line Item by Timekeeper View\nIMPROVED! Rate Card Administration\nIMPROVED! Deductible/SIR Tracking\nIMPROVED! Matter and Budget Web Services\nIMPROVED! Release 22.2 also introduces a change to the From email used across all Legal eXchange system notifications.The new From email address will be noreply@legalexchange.com Please forward this information to others in your organization who needs to be aware of this change.\nIMPROVED! Legal eXchange no longer supports IE 11. Supported browsers include Microsoft Edge, Chrome and Firefox.\n\nClick HERE to review the 22.2 Release Notes.",
+    "date": "01/09/2023",
+    "type": "EWAdmin"
+  }
+]

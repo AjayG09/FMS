@@ -1,0 +1,48 @@
+{
+  "id": "2",
+  "label": "Inactive",
+  "columns": [
+    {
+      "field": "name",
+      "filter": "agTextColumnFilter",
+      "headerName": "name",
+      "sortable": true,
+      "cellRenderer": "GridCellLink"
+    },
+    {
+      "field": "displayName",
+      "filter": "agTextColumnFilter",
+      "headerName": "Display Name",
+      "sortable": true
+    },
+    {
+      "field": "btId",
+      "filter": "agTextColumnFilter",
+      "headerName": "BT Id",
+      "sortable": true
+    },
+    {
+      "field": "contact",
+      "filter": "agTextColumnFilter",
+      "headerName": "Contact",
+      "sortable": true
+    },
+    {
+      "field": "phoneNumber",
+      "filter": "agTextColumnFilter",
+      "headerName": "Phone Number",
+      "sortable": true
+    },
+    {
+      "field": "date",
+      "filter": "agTextColumnFilter",
+      "headerName": "Date",
+      "sortable": true
+    },
+    {
+      "field": "action",
+      "headerName": "",
+      "cellRenderer": "GridCellLink"
+    }
+  ]
+}

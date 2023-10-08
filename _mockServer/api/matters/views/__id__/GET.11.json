@@ -1,0 +1,16 @@
+{
+  "id": "11",
+  "label": "Matter Work Queue",
+  "columns": [
+    {
+      "field": "lawFirmName",
+      "headerName": "Law Firm Name",
+      "sortable": true
+    },
+    {
+      "field": "matterCount",
+      "headerName": "Matter Count",
+      "sortable": true
+    }
+  ]
+}

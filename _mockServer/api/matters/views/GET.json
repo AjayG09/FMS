@@ -1,0 +1,66 @@
+[
+  {
+    "id": "0",
+    "label": "My Active Matters"
+  },
+  {
+    "id": "1",
+    "label": "Matters by Law Firm"
+  },
+  {
+    "id": "2",
+    "label": "Matters by Status"
+  },
+  {
+    "id": "3",
+    "label": "Matters by Type"
+  },
+  {
+    "id": "4",
+    "label": "Matters by Users"
+  },
+  {
+    "id": "5",
+    "label": "Pending Assignments"
+  },
+  {
+    "id": "6",
+    "label": "Complex Master Matters"
+  },
+  {
+    "id": "7",
+    "label": "All Sub-Matters"
+  },
+  {
+    "id": "8",
+    "label": "Unapproved Sub-Matters"
+  },
+  {
+    "id": "9",
+    "label": "Matters with Cost Share"
+  },
+  {
+    "id": "10",
+    "label": "Matters by Status"
+  },
+  {
+    "id": "11",
+    "label": "Matter Work Queue"
+  },
+  {
+    "id": "12",
+    "label": "Active by User"
+  },
+  {
+    "id": "13",
+    "label": "Inactive by User"
+  },
+  {
+    "id": "14",
+    "label": "Invalid CMS ID"
+  },
+  {
+    "id": "15",
+    "label": "Matters With Bad Users"
+  }
+]

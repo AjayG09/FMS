@@ -1,0 +1,16 @@
+{
+  "id": "2",
+  "label": "Matters by Status",
+  "columns": [
+    {
+      "field": "status",
+      "headerName": "Status",
+      "sortable": true
+    },
+    {
+      "field": "numberOfMatters",
+      "headerName": "# of Matters",
+      "sortable": true
+    }
+  ]
+}

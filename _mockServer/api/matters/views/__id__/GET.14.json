@@ -1,0 +1,48 @@
+{
+  "id": "14",
+  "label": "Invalid CMS ID",
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "suppressMenu": true,
+      "field": "checkbox",
+      "headerName": "",
+      "width": 60
+    },
+    {
+      "field": "alerts",
+      "headerName": "Alerts",
+      "sortable": true
+    },
+    {
+      "field": "menu",
+      "headerName": "Menu",
+      "sortable": true
+    },
+    {
+      "field": "matterName",
+      "headerName": "Matter Name",
+      "sortable": true
+    },
+    {
+      "field": "matterNumber",
+      "headerName": "Matter Number",
+      "sortable": true
+    },
+    {
+      "field": "activeDate",
+      "headerName": "Active Date",
+      "sortable": true
+    },
+    {
+      "field": "matterClass",
+      "headerName": "Matter Class",
+      "sortable": true
+    },
+    {
+      "field": "status",
+      "headerName": "Status",
+      "sortable": true
+    }
+  ]
+}

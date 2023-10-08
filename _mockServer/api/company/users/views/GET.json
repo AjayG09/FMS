@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0",
+    "label": "All Users"
+  },
+  {
+    "id": "1",
+    "label": "Active Users"
+  },
+  {
+    "id": "2",
+    "label": "Inactive Users"
+  }
+]

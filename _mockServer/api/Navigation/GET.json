@@ -1,0 +1,333 @@
+{
+  "VW": [
+    {
+      "dataQa": "invoices",
+      "href": "/invoices"
+    },
+    {
+      "dataQa": "matters",
+      "href": "/matters"
+    },
+    {
+      "dataQa": "budgets",
+      "href": "/budgets"
+    },
+    {
+      "dataQa": "events",
+      "href": "/events"
+    },
+    {
+      "dataQa": "notes",
+      "href": "/notes"
+    },
+    {
+      "dataQa": "timekeepers",
+      "href": "/timekeepers"
+    },
+    {
+      "dataQa": "log",
+      "navLinks": [
+        {
+          "dataQa": "upload",
+          "href": "#"
+        },
+        {
+          "dataQa": "activityHistory",
+          "href": "#"
+        },
+        {
+          "dataQa": "userHistory",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "dataQa": "company",
+      "navLinks": [
+        {
+          "dataQa": "companyDetails",
+          "href": "#"
+        },
+        {
+          "dataQa": "users",
+          "href": "#"
+        },
+        {
+          "dataQa": "clientIds",
+          "href": "#"
+        },
+        {
+          "dataQa": "contacts",
+          "href": "#"
+        },
+        {
+          "dataQa": "emailNotification",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "dataQa": "administration",
+      "hasIcon": true,
+      "navLinks": [
+        {
+          "dataQa": "companyProfile",
+          "href": "/administration/company-profile"
+        }
+      ]
+    },
+    {
+      "dataQa": "search",
+      "href": "#",
+      "secondaryLink": true,
+      "canSearchInvoiceNumber": true,
+      "canSearchClaimNumber": true
+    },
+    {
+      "dataQa": "setting",
+      "href": "#",
+      "secondaryLink": true
+    },
+    {
+      "children": "Debbie Webb",
+      "userInfo": true,
+      "navLinks": [
+        {
+          "dataQa": "preferences",
+          "href": "#"
+        },
+        {
+          "dataQa": "changePassword",
+          "href": "#"
+        },
+        {
+          "dataQa": "help",
+          "href": "/help",
+          "target": "_blank"
+        },
+        {
+          "dataQa": "logout",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "EW": [
+    {
+      "id": 1,
+      "dataQa": "invoices",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "dataQa": "explorer",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "dataQa": "matters",
+      "href": "/matters"
+    },
+    {
+      "id": 4,
+      "dataQa": "notes",
+      "href": "/notes"
+    },
+    {
+      "id": 5,
+      "dataQa": "budgets",
+      "href": "#"
+    },
+    {
+      "id": 6,
+      "dataQa": "events",
+      "href": "#"
+    },
+    {
+      "id": 7,
+      "dataQa": "vendors",
+      "href": "#"
+    },
+    {
+      "id": 8,
+      "dataQa": "analytics",
+      "href": "#"
+    },
+    {
+      "id": 9,
+      "dataQa": "admin",
+      "hasIcon": true,
+      "navLinks": [
+        {
+          "dataQa": "approvals",
+          "href": "#"
+        },
+        {
+          "dataQa": "configurations",
+          "href": "#"
+        },
+        {
+          "dataQa": "connect",
+          "href": "#"
+        },
+        {
+          "dataQa": "emailNotification",
+          "href": "#"
+        },
+        {
+          "dataQa": "flexFields",
+          "href": "#"
+        },
+        {
+          "dataQa": "matterClasses",
+          "href": "#"
+        },
+        {
+          "dataQa": "messages",
+          "href": "#"
+        },
+        {
+          "dataQa": "profile",
+          "href": "#"
+        },
+        {
+          "dataQa": "rates",
+          "href": "#"
+        },
+        {
+          "dataQa": "rules",
+          "href": "#"
+        },
+        {
+          "dataQa": "securityRoles",
+          "href": "/administration/security-roles"
+        },
+        {
+          "dataQa": "users",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "dataQa": "search",
+      "href": "#",
+      "hasIcon": false,
+      "secondaryLink": true,
+      "canSearchInvoiceNumber": true,
+      "canSearchClaimNumber": true,
+      "canSearchLawfirmMatterId": true,
+      "canSearchMatterNumber": true,
+      "divider": true
+    },
+    {
+      "id": 11,
+      "dataQa": "partnerSelectLogo",
+      "href": "#",
+      "secondaryLink": true,
+      "divider": true
+    },
+    {
+      "id": 12,
+      "children": "Debbie Webb",
+      "userInfo": true,
+      "navLinks": [
+        {
+          "dataQa": "preferences",
+          "href": "#"
+        },
+        {
+          "dataQa": "changePassword",
+          "href": "#"
+        },
+        {
+          "dataQa": "help",
+          "href": "/help",
+          "target": "_blank"
+        },
+        {
+          "dataQa": "logout",
+          "href": "#"
+        }
+      ]
+    }
+  ],
+  "CSA": [
+    {
+      "id": 1,
+      "dataQa": "clients",
+      "href": "#"
+    },
+    {
+      "id": 2,
+      "dataQa": "relationships",
+      "href": "#"
+    },
+    {
+      "id": 3,
+      "dataQa": "vendors",
+      "href": "#"
+    },
+    {
+      "id": 4,
+      "dataQa": "vendorUsers",
+      "href": "#"
+    },
+    {
+      "id": 5,
+      "dataQa": "admin",
+      "hasIcon": true,
+      "navLinks": [
+        {
+          "dataQa": "views",
+          "href": "#"
+        },
+        {
+          "dataQa": "pullViews",
+          "href": "#"
+        },
+        {
+          "dataQa": "messages",
+          "href": "#"
+        },
+        {
+          "dataQa": "user",
+          "href": "#"
+        },
+        {
+          "dataQa": "security",
+          "href": "#"
+        },
+        {
+          "dataQa": "scheduler",
+          "href": "#"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "dataQa": "customizations",
+      "href": "#"
+    },
+    {
+      "id": 12,
+      "children": "Debbie Webb",
+      "userInfo": true,
+      "navLinks": [
+        {
+          "dataQa": "changePassword",
+          "href": "#"
+        },
+        {
+          "dataQa": "help",
+          "href": "/help",
+          "target": "_blank"
+        },
+        {
+          "dataQa": "logout",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}

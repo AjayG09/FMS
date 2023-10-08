@@ -1,0 +1,16 @@
+{
+  "id": "3",
+  "label": "Matters by Type",
+  "columns": [
+    {
+      "field": "matterType",
+      "headerName": "Matter Type",
+      "sortable": true
+    },
+    {
+      "field": "numberOfMatters",
+      "headerName": "# of Matters",
+      "sortable": true
+    }
+  ]
+}

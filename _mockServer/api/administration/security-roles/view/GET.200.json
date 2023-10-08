@@ -1,0 +1,215 @@
+{
+    "rows": 35,
+    "data": [
+      {
+        "id": 1,
+        "noOfPermissions": "3",
+        "userName": "sit",     
+        "status":"INACTIVE"
+      },
+      {
+        "id": 2,
+        "noOfPermissions": "4",
+        "userName": "dolore",     
+        "status":"INACTIVE"
+      },
+      {
+        "id": 3,
+        "noOfPermissions": "5",
+        "userName": "deserunt",      
+        "status":"INACTIVE"
+      },
+      {
+        "id": 4,
+        "noOfPermissions": "2",
+        "userName": "consectetur",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 5,
+        "noOfPermissions": "3",
+        "userName": "aliqua",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 6,
+        "noOfPermissions": "6",
+        "userName": "in",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 7,
+        "noOfPermissions": "3",
+        "userName": "do",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 8,
+        "noOfPermissions": "3",
+        "userName": "non",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 9,
+        "noOfPermissions": "3",
+        "userName": "laboris",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 10,
+        "noOfPermissions": "3",
+        "userName": "aliquip",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 11,
+        "noOfPermissions": "3",
+        "userName": "fugiat",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 12,
+        "noOfPermissions": "3",
+        "userName": "eiusmod",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 13,
+        "noOfPermissions": "3",
+        "userName": "aliquip",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 14,
+        "noOfPermissions": "3",
+        "userName": "eiusmod",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 15,
+        "noOfPermissions": "3",
+        "userName": "pariatur",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 16,
+        "noOfPermissions": "3",
+        "userName": "cillum",
+        "status":"INACTIVE"
+      },
+      {
+        "id": 17,
+        "noOfPermissions": "2",
+        "userName": "incididunt",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 18,
+        "noOfPermissions": "3",
+        "userName": "magna",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 19,
+        "noOfPermissions": "3",
+        "userName": "cupidatat",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 20,
+        "noOfPermissions": "3",
+        "userName": "occaecat",   
+        "status":"ACTIVE"
+      },
+      {
+        "id": 21,
+        "noOfPermissions": "3",
+        "userName": "amet",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 22,
+        "noOfPermissions": "3",
+        "userName": "proident",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 23,
+        "noOfPermissions": "3",
+        "userName": "ullamco",  
+        "status":"ACTIVE"
+      },
+      {
+        "id": 24,
+        "noOfPermissions": "3",
+        "userName": "sint",    
+        "status":"ACTIVE"
+      },
+      {
+        "id": 25,
+        "noOfPermissions": "3",
+        "userName": "culpa",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 26,
+        "noOfPermissions": "3",
+        "userName": "fugiat",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 27,
+        "noOfPermissions": "3",
+        "userName": "est",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 28,
+        "noOfPermissions": "3",
+        "userName": "est",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 29,
+        "noOfPermissions": "3",
+        "userName": "cillum",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 30,
+        "noOfPermissions": "3",
+        "userName": "adipisicing",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 31,
+        "noOfPermissions": "3",
+        "userName": "non",   
+        "status":"ACTIVE"
+      },
+      {
+        "id": 32,
+        "noOfPermissions": "3",
+        "userName": "ullamco",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 33,
+        "noOfPermissions": "3",
+        "userName": "velit",
+        "status":"ACTIVE"
+      },
+      {
+        "id": 34,
+        "noOfPermissions": "3",
+        "userName": "mollit",    
+        "status":"ACTIVE"
+      },
+      {
+        "id": 35,
+        "noOfPermissions": "3",
+        "userName": "consectetur",   
+        "status":"ACTIVE"
+      }
+    ]
+  }

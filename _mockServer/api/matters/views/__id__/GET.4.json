@@ -1,0 +1,23 @@
+{
+  "id": "4",
+  "label": "Matters by Users",
+  "columns": [
+    {
+      "checkboxSelection": true,
+      "suppressMenu": true,
+      "field": "checkbox",
+      "headerName": "",
+      "width": 60
+    },
+    {
+      "field": "name",
+      "headerName": "Name",
+      "sortable": true
+    },
+    {
+      "field": "numberOfMatters",
+      "headerName": "# of Matters",
+      "sortable": true
+    }
+  ]
+}
